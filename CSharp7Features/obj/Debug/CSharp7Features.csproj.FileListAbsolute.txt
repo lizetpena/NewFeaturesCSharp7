@@ -1,0 +1,10 @@
+C:\Users\lipenade\Desktop\Visual Studio IP and C# 7 IP\C# 7.0 Features\Demos\CSharp7Features\CSharp7Features\bin\Debug\CSharp7Features.exe.config
+C:\Users\lipenade\Desktop\Visual Studio IP and C# 7 IP\C# 7.0 Features\Demos\CSharp7Features\CSharp7Features\bin\Debug\CSharp7Features.exe
+C:\Users\lipenade\Desktop\Visual Studio IP and C# 7 IP\C# 7.0 Features\Demos\CSharp7Features\CSharp7Features\bin\Debug\CSharp7Features.pdb
+C:\Users\lipenade\Desktop\Visual Studio IP and C# 7 IP\C# 7.0 Features\Demos\CSharp7Features\CSharp7Features\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lipenade\Desktop\Visual Studio IP and C# 7 IP\C# 7.0 Features\Demos\CSharp7Features\CSharp7Features\bin\Debug\System.ValueTuple.dll
+C:\Users\lipenade\Desktop\Visual Studio IP and C# 7 IP\C# 7.0 Features\Demos\CSharp7Features\CSharp7Features\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lipenade\Desktop\Visual Studio IP and C# 7 IP\C# 7.0 Features\Demos\CSharp7Features\CSharp7Features\obj\Debug\CSharp7Features.csprojResolveAssemblyReference.cache
+C:\Users\lipenade\Desktop\Visual Studio IP and C# 7 IP\C# 7.0 Features\Demos\CSharp7Features\CSharp7Features\obj\Debug\CSharp7Features.csproj.CoreCompileInputs.cache
+C:\Users\lipenade\Desktop\Visual Studio IP and C# 7 IP\C# 7.0 Features\Demos\CSharp7Features\CSharp7Features\obj\Debug\CSharp7Features.exe
+C:\Users\lipenade\Desktop\Visual Studio IP and C# 7 IP\C# 7.0 Features\Demos\CSharp7Features\CSharp7Features\obj\Debug\CSharp7Features.pdb
