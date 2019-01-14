@@ -24,6 +24,34 @@ namespace CSharp7Features
         {
             throw new NotImplementedException();
         }
+
+
+        /// <summary>
+        /// This is purely academic to show exception filters in the catch block with OR operations
+        /// in the type of exceptions captured.
+        /// </summary>
+        public void ConvertName()
+        {
+            try
+            {
+                DoSomethingThatCanGoWrong(_name);
+            }
+            catch (Exception ex) when (ex is ArgumentException || ex is InvalidCastException || ex is NotImplementedException)
+            {
+                HandleException(ex);
+            }
+
+        }
+
+        private void HandleException(Exception ex)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void DoSomethingThatCanGoWrong(string name)
+        {
+            throw new NotImplementedException();
+        }
     }
 
     internal class ConfigResource
